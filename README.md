@@ -14,6 +14,10 @@ My Custom Linoria UI Library, all credits go to lnori
 
 > Corners Missing Pixels Fixed (I Have No Clue Why This Was An Issue In The First Place)
 
+### Changes by benz
+- cloneref'd all services (less dtc)
+- removed cursor cuz its lame
+
 # Preview
 
 ![linoria 1](https://user-images.githubusercontent.com/119365606/204396794-b78449b8-c7ce-4cc5-83bb-941a71c4811a.jpeg)
